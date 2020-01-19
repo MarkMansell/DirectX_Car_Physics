@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{2c3d4c8c-5d1a-459a-a05a-a4e4b608a44e}</UniqueIdentifier>
+      <Extensions>fx;fxh;hlsl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Textures">
+      <UniqueIdentifier>{84a4d56f-682d-4b12-a7c9-064cc08bce09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DDSTextureLoader.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CameraManager.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Graphics.h" />
+    <ClInclude Include="Group.h" />
+    <ClInclude Include="Input.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="ModelDataManager.h" />
+    <ClInclude Include="Structures.h" />
+    <ClInclude Include="CarParticleModel.h" />
+    <ClInclude Include="ParticleModel.h" />
+    <ClInclude Include="Collision.h" />
+    <ClInclude Include="CarAIController.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DDSTextureLoader.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CameraManager.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Graphics.cpp" />
+    <ClCompile Include="Input.cpp" />
+    <ClCompile Include="Model.cpp" />
+    <ClCompile Include="ModelDataManager.cpp" />
+    <ClCompile Include="Group.cpp" />
+    <ClCompile Include="FGGS Framework.cpp" />
+    <ClCompile Include="CarParticleModel.cpp" />
+    <ClCompile Include="ParticleModel.cpp" />
+    <ClCompile Include="CarAIController.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DX11 Framework.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="SceneLayout.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="FP3DA Framework.fx">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Lighting.fx">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Textures\dirt.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\dirt2.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\floor.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\grass.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\grass_SPEC.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\grass2.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\lens.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\LW_Sky-3a.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\metal3.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\NoTex.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\stone.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\track.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\tree_PNG196.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\tree_PNG197.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\tree_PNG215.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\tree_PNG226.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Textures\WhiteTex.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

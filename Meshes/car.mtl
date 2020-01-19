@@ -1,0 +1,40 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.05.2014 09:14:37
+
+newmtl CarFrameMat
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0196 0.0196 0.0196
+	Kd 0.0196 0.0196 0.0196
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl CarWindowMat
+	Ns 500.0000
+	Ni 1.5000
+	d 0.5500
+	Tr 0.5000
+	Tf 0.4500 0.4500 0.4500 
+	illum 2
+	Ka 0.0471 0.0784 0.0963
+	Kd 0.0471 0.0784 0.0963
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl CarPanelMat
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0588 0.2196 0.9255
+	Kd 0.0588 0.2196 0.9255
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka metal3.dds
+	map_Kd metal3.dds

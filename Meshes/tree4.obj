@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.05.2014 15:45:02
+
+mtllib tree4.mtl
+
+#
+# object Plane004
+#
+
+v  -130.0000 199.4307 0.0000
+v  -130.0000 -0.5693 -0.0000
+v  130.0000 199.4307 0.0000
+v  130.0000 -0.5693 -0.0000
+# 4 vertices
+
+vn 0.0000 -0.0000 1.0000
+# 1 vertex normals
+
+vt 0.0000 1.0000 0.0000
+vt 0.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+vt 1.0000 0.0000 0.0000
+# 4 texture coords
+
+g Plane004
+usemtl TreeMat4
+f 1/1/1 2/2/1 3/3/1 
+f 4/4/1 3/3/1 2/2/1 
+# 2 faces
+

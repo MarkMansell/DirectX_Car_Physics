@@ -1,0 +1,276 @@
+b groundPlane.obj
+c f car.obj -650.0 20.0 0.0
+c f wheel.obj 25.0 7.7 -53.0
+u
+c f wheel.obj -25.0 7.7 -53.0
+u
+c f wheel.obj 22.0 7.7 41.0
+u
+c f wheel.obj -22.0 7.7 41.0
+u
+u
+c f car.obj -750.0 3.0 0.0
+c f wheel.obj 25.0 7.7 -53.0
+u
+c f wheel.obj -25.0 7.7 -53.0
+u
+c f wheel.obj 22.0 7.7 41.0
+u
+c f wheel.obj -22.0 7.7 41.0
+u
+u
+c f sky.obj 0.0 0.0 0.0
+u
+c f mountain.obj 0.0 0.0 0.0
+u
+c t tree2.obj -1241 0 -467
+u
+c t tree1.obj -2524 0 -2478
+u
+c t tree2.obj 2505 0 1145
+u
+c t tree1.obj -1291 0 2995
+u
+c t tree1.obj -1191 0 2604
+u
+c t tree4.obj -1182 0 -2421
+u
+c t tree2.obj 2247 0 -726
+u
+c t tree3.obj 2712 0 1667
+u
+c t tree2.obj -1503 0 2811
+u
+c t tree1.obj 1464 0 141
+u
+c t tree2.obj -347 0 2644
+u
+c t tree3.obj 1659 0 1723
+u
+c t tree1.obj -1116 0 -2035
+u
+c t tree1.obj -2106 0 -2040
+u
+c t tree3.obj -2246 0 2805
+u
+c t tree1.obj 1350 0 2006
+u
+c t tree1.obj -29 0 -1623
+u
+c t tree1.obj -640 0 1966
+u
+c t tree2.obj -144 0 1439
+u
+c t tree2.obj -1938 0 1118
+u
+c f grassTuft.obj -556 0.0 175
+u
+c f grassTuft.obj 315 0.0 403
+u
+c f grassTuft.obj 520 0.0 198
+u
+c f grassTuft.obj 364 0.0 1123
+u
+c f grassTuft.obj -438 0.0 370
+u
+c f grassTuft.obj 832 0.0 -100
+u
+c f grassTuft.obj -215 0.0 742
+u
+c f grassTuft.obj 826 0.0 228
+u
+c f grassTuft.obj 186 0.0 186
+u
+c f grassTuft.obj -907 0.0 -329
+u
+c f grassTuft.obj -142 0.0 -609
+u
+c f grassTuft.obj 99 0.0 145
+u
+c f grassTuft.obj 840 0.0 474
+u
+c f grassTuft.obj 437 0.0 -259
+u
+c f grassTuft.obj 38 0.0 -893
+u
+c f grassTuft.obj -963 0.0 236
+u
+c f grassTuft.obj 887 0.0 -854
+u
+c t grassTuft2.obj -841 0 -467
+u
+c t grassTuft2.obj -1969 0 -724
+u
+c t grassTuft2.obj 1762 0 464
+u
+c t grassTuft2.obj 2081 0 1827
+u
+c t grassTuft2.obj 1795 0 -2942
+u
+c t grassTuft2.obj -1191 0 2604
+u
+c t grassTuft2.obj 1092 0 -382
+u
+c t grassTuft2.obj 2518 0 -1895
+u
+c t grassTuft2.obj 1571 0 -2538
+u
+c t grassTuft2.obj 2467 0 -2299
+u
+c t grassTuft2.obj -1503 0 2811
+u
+c t grassTuft2.obj 2473 0 1664
+u
+c t grassTuft2.obj 1053 0 -868
+u
+c t grassTuft2.obj 1462 0 2757
+u
+c t grassTuft2.obj 1523 0 -741
+u
+c t grassTuft2.obj -1116 0 -35
+u
+c t grassTuft2.obj -1088 0 -106
+u
+c t grassTuft2.obj -2064 0 1648
+u
+c t grassTuft2.obj -2690 0 -729
+u
+c t grassTuft2.obj 1806 0 -1101
+u
+c t grassTuft2.obj -2429 0 -623
+u
+c t grassTuft2.obj -1556 0 -2840
+u
+c t grassTuft2.obj -2731 0 2308
+u
+c t grassTuft2.obj 1426 0 -2323
+u
+c t grassTuft2.obj 918 0 2082
+u
+c t grassTuft2.obj 1633 0 -1115
+u
+c t grassTuft2.obj 1504 0 -930
+u
+c t grassTuft2.obj 2473 0 1386
+u
+c t grassTuft2.obj -1724 0 1072
+u
+c t grassTuft2.obj 1577 0 -573
+u
+c t grassTuft2.obj 2786 0 -1290
+u
+c t grassTuft2.obj 1155 0 -767
+u
+c t grassTuft2.obj -831 0 -52
+u
+c t grassTuft2.obj -1741 0 -724
+u
+c t grassTuft2.obj 1907 0 191
+u
+c t grassTuft2.obj 2257 0 287
+u
+c t grassTuft2.obj 1745 0 -2909
+u
+c t grassTuft2.obj -1021 0 -588
+u
+c t grassTuft2.obj 2306 0 -1030
+u
+c t grassTuft2.obj -1700 0 2591
+u
+c t grassTuft2.obj -610 0 1359
+u
+c t grassTuft2.obj 1948 0 1483
+u
+c t grassTuft2.obj 802 0 -1350
+u
+c t grassTuft2.obj -974 0 2020
+u
+c t grassTuft2.obj -2148 0 -2199
+u
+c t grassTuft2.obj 2681 0 1734
+u
+c t grassTuft2.obj -1218 0 -2938
+u
+c t grassTuft2.obj -1327 0 1467
+u
+c t grassTuft2.obj 2248 0 1483
+u
+c t grassTuft2.obj 310 0 -1617
+u
+c t grassTuft2.obj 309 0 2616
+u
+c t grassTuft2.obj 1000 0 -2249
+u
+c t grassTuft2.obj -398 0 -1303
+u
+c t grassTuft2.obj 244 0 -1609
+u
+c t grassTuft2.obj 395 0 1485
+u
+c t grassTuft2.obj -2523 0 2587
+u
+c t grassTuft2.obj -1848 0 -2200
+u
+c t grassTuft2.obj -980 0 2796
+u
+c t grassTuft2.obj 2789 0 1798
+u
+c t grassTuft2.obj -872 0 -2622
+u
+c t grassTuft2.obj -438 0 1179
+u
+c t grassTuft2.obj 2358 0 -1191
+u
+c t grassTuft2.obj -2356 0 -2511
+u
+c t grassTuft2.obj -1872 0 -1055
+u
+c t grassTuft2.obj 1162 0 1886
+u
+c t grassTuft2.obj -1869 0 -1142
+u
+c t grassTuft2.obj -2281 0 2998
+u
+c t grassTuft2.obj 1621 0 -2699
+u
+c t grassTuft2.obj 2692 0 -1389
+u
+c t grassTuft2.obj 2600 0 1510
+u
+c t grassTuft2.obj 1061 0 1688
+u
+c t grassTuft2.obj -1255 0 1423
+u
+c t grassTuft2.obj -1782 0 -1285
+u
+c t grassTuft2.obj -617 0 -2757
+u
+c t grassTuft2.obj 1369 0 1154
+u
+c t grassTuft2.obj -376 0 -2329
+u
+c t grassTuft2.obj -1825 0 1555
+u
+c t grassTuft2.obj 1841 0 -2512
+u
+c t grassTuft2.obj 2118 0 2753
+u
+c t grassTuft2.obj 2279 0 2996
+O -705.480 0.0 439.377
+O -606.911 0.0 734.298
+O -442.502 0.0 936.917
+O -221.364 0.0 1055.612
+O 11.764 0.0 1083.677
+O 224.051 0.0 1040.697
+O 477.480 0.0 875.301
+O 640.619 0.0 667.830
+O 694.614 0.0 486.502
+O 684.445 0.0 -501.927
+O 590.088 0.0 -764.688
+O 433.482 0.0 -936.020
+O 242.903 0.0 -1053.961
+O 0.153 0.0 -1097.308
+O -251.369 0.0 -1040.037
+O -447.022 0.0 -929.670
+O -604.356 0.0 -776.147
+O -690.248 0.0 -516.200 

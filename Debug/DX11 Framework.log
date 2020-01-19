@@ -1,0 +1,53 @@
+﻿  Camera.cpp
+D:\GitFork\DirectX_Car_Physics\Camera.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitFork\DirectX_Car_Physics\Camera.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CameraManager.cpp
+  CarAIController.cpp
+D:\GitFork\DirectX_Car_Physics\CarAIController.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitFork\DirectX_Car_Physics\CarAIController.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitFork\DirectX_Car_Physics\CarAIController.cpp(38): warning C4018: '>=': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\CarAIController.cpp(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CarParticleModel.cpp
+D:\GitFork\DirectX_Car_Physics\CarParticleModel.cpp(55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\GitFork\DirectX_Car_Physics\CarParticleModel.cpp(56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\GitFork\DirectX_Car_Physics\CarParticleModel.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DDSTextureLoader.cpp
+  FGGS Framework.cpp
+  Game.cpp
+D:\GitFork\DirectX_Car_Physics\Game.cpp(21): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\GitFork\DirectX_Car_Physics\Game.cpp(22): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\GitFork\DirectX_Car_Physics\Game.cpp(23): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\GitFork\DirectX_Car_Physics\Game.cpp(24): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\GitFork\DirectX_Car_Physics\Game.cpp(25): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\GitFork\DirectX_Car_Physics\Game.cpp(65): warning C4458: declaration of 'input' hides class member
+  D:\GitFork\DirectX_Car_Physics\Game.h(36): note: see declaration of 'Game::input'
+D:\GitFork\DirectX_Car_Physics\Game.cpp(282): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\Game.cpp(290): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\Game.cpp(298): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\Game.cpp(305): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\Game.cpp(312): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\Game.cpp(320): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\Game.cpp(357): warning C4018: '<': signed/unsigned mismatch
+  Graphics.cpp
+D:\GitFork\DirectX_Car_Physics\Graphics.cpp(406): warning C4238: nonstandard extension used: class rvalue used as lvalue
+D:\GitFork\DirectX_Car_Physics\Graphics.cpp(407): warning C4238: nonstandard extension used: class rvalue used as lvalue
+D:\GitFork\DirectX_Car_Physics\Graphics.cpp(438): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\Graphics.cpp(466): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\Graphics.cpp(479): warning C4018: '<': signed/unsigned mismatch
+  Group.cpp
+  Input.cpp
+  Model.cpp
+D:\GitFork\DirectX_Car_Physics\Model.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  ModelDataManager.cpp
+D:\GitFork\DirectX_Car_Physics\ModelDataManager.cpp(60): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\ModelDataManager.cpp(90): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\ModelDataManager.cpp(93): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\ModelDataManager.cpp(336): warning C4018: '<': signed/unsigned mismatch
+D:\GitFork\DirectX_Car_Physics\ModelDataManager.cpp(353): warning C4018: '>': signed/unsigned mismatch
+  ParticleModel.cpp
+D:\GitFork\DirectX_Car_Physics\ParticleModel.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GitFork\DirectX_Car_Physics\ParticleModel.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GitFork\DirectX_Car_Physics\ParticleModel.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DX11 Framework.vcxproj -> D:\GitFork\DirectX_Car_Physics\Debug\DX11 Framework.exe
